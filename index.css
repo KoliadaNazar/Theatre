@@ -13,7 +13,7 @@ border: none;
   grid-auto-rows: 600px 750px 810px 500px 480px 852px;
   grid-template-areas:
   "header"
-  "content"
+  "content--0"
   "content--1"
   "content--2"
   "content--3"
