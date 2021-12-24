@@ -27,27 +27,27 @@ font-family: 'Open Sans';
 }
 .content {
   grid-area: content;
-  border-color: rgba(3, 3, 3, 0.85);
+  
 }
 .content--1 {
   grid-area: content--1;
-  border-color: rgba(3, 3, 3, 0.85);
+  
 }
 
 
 .content--2 {
   grid-area: content--2;
-  border-color: rgba(3, 3, 3, 0.85);
+  ;
 }
 
 .content--3 {
   grid-area: content--3;
-  border-color: rgba(3, 3, 3, 0.85);
+  
 }
 
 .footer {
   grid-area: footer;
-  border-color: rgba(3, 3, 3, 0.85);
+  
 }
 
 .nav--phone  {
