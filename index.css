@@ -46,7 +46,7 @@ font-family: 'Open Sans';
 }
 
 .footer {
-  grid-area: content--4;
+  grid-area: footer;
   background-color: rgba(3, 3, 3, 0.85);
 }
 
